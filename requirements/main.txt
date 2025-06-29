@@ -106,9 +106,9 @@ sentry-sdk[flask]==2.20.0 \
     --hash=sha256:afa82713a92facf847df3c6f63cec71eb488d826a50965def3d7722aa6f0fdab \
     --hash=sha256:c359a1edf950eb5e80cffd7d9111f3dbeef57994cb4415df37d39fda2cf22364
     # via -r main.in
-urllib3==1.26.19 \
-    --hash=sha256:37a0344459b199fce0e80b0d3569837ec6b6937435c5244e7fd73fa6006830f3 \
-    --hash=sha256:3e3d753a8618b86d7de333b4223005f68720bcd6a7d2bcb9fbd2229ec7c1e429
+urllib3==2.5.0 \
+    --hash=sha256:3fc47733c7e419d4bc3f6b3dc2b4f890bb743906a30d56ba4a5bfa4bbff92760 \
+    --hash=sha256:e6b01673c0fa6a13e374b50871808eb3bf7046c4b125b216f6bf1cc604cff0dc
     # via
     #   requests
     #   sentry-sdk
